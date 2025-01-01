@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK. It happens when the app uses libraries that have native dependencies and these dependencies are not correctly configured or linked within the project. The error message may not be entirely clear, often providing generic build errors.
